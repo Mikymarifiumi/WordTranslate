@@ -1,0 +1,13 @@
+paper, carta
+shirt, maglietta
+cycle, bicicletta
+car, macchina
+sea, mare
+phone, telefono
+keyboard, tastiera
+clock, orologio
+door, porta
+water, acqua
+bottle, bottiglia
+hand, mano
+chair, sedia
